@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="historical">Historical</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="stadium">Stadium</string>
+    <string name="cafeteria">Cafeteria</string>
+    <string name="la_dolce_vite">La Dolce Vite</string>
+    <string name="dar_ebn_lookman">Dar Ebn LookMan</string>
+    <string name="temple_of_karnak">Temple Of El Karnak</string>
+    <string name="chicken_briskets">Chicken Briskets</string>
+    <string name="mansoura_stadium">Mansoura Stadium</string>
+</resources>
